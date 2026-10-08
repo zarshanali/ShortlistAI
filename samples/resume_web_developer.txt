@@ -1,0 +1,14 @@
+Arjun Mehta
+arjun.m@example.com | 555-201-3344 | github.com/arjun-web
+
+EXPERIENCE
+Frontend Developer, PixelWorks (2021 - 2024)
+- Developed responsive websites using HTML, CSS, JavaScript and React for 15+ clients.
+- Improved page load time by 35% with lazy loading and image optimisation.
+- Collaborated with designers in Figma and used Git for version control.
+
+EDUCATION
+B.Tech in Computer Science, 2021
+
+SKILLS
+HTML, CSS, JavaScript, React, Bootstrap, Figma, Git, WordPress, jQuery, responsive design

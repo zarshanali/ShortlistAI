@@ -1,0 +1,25 @@
+Priya Sharma
+priya.sharma@example.com | +91 98765 43210 | linkedin.com/in/priyasharma | github.com/priya-ds
+
+SUMMARY
+Data scientist with 4 years of experience building machine learning models for retail and fintech.
+
+EXPERIENCE
+Data Scientist, RetailCo (2022 - Present)
+- Built a demand forecasting model in Python (scikit-learn, XGBoost) that reduced stock-outs by 18%.
+- Automated weekly reporting with SQL and Power BI, saving the team 10 hours per week.
+- Deployed models with Docker and Flask on AWS; mentored 2 junior analysts.
+Data Analyst, FinServe (2020 - 2022)
+- Analyzed 2M+ transaction records with pandas and SQL to detect churn drivers.
+- Created dashboards in Tableau used by 40 managers.
+
+EDUCATION
+M.Sc. in Statistics, 2020
+B.Sc. in Mathematics, 2018
+
+SKILLS
+Python, SQL, machine learning, deep learning, pandas, numpy, scikit-learn, TensorFlow, statistics,
+data visualization, Tableau, Power BI, Docker, Git, communication, teamwork
+
+PROJECTS
+Resume classifier using NLP and logistic regression (accuracy 91%).

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="CV Match Studio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#134e4a"/>
+      <stop offset="0.5" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="tl"><rect x="80" y="262" width="1120" height="26" rx="13"/></clipPath>
+  </defs>
+  <rect width="1280" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="28" fill="url(#glow)"/>
+
+  <!-- CV / document icon with a check mark -->
+  <g transform="translate(88 50)" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 4 H44 L62 22 V80 H6 Z" fill="#ffffff" fill-opacity="0.18"/>
+    <path d="M44 4 V22 H62"/>
+    <path d="M18 40 H50"/>
+    <path d="M18 54 H50"/>
+    <circle cx="56" cy="76" r="17" fill="#134e4a" stroke="#ffffff"/>
+    <path d="M48 76 L54 82 L65 69" stroke="#6ee7b7"/>
+  </g>
+
+  <text x="180" y="96" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="-1">CV Match Studio</text>
+  <text x="182" y="142" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#e0e7ff">Rank up to 500 CVs against one job, with a score you can explain</text>
+
+  <!-- feature chips -->
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">
+    <rect x="182" y="170" width="160" height="38" rx="19" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35"/>
+    <text x="262" y="195" text-anchor="middle">Match score</text>
+    <rect x="356" y="170" width="140" height="38" rx="19" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35"/>
+    <text x="426" y="195" text-anchor="middle">Skill gaps</text>
+    <rect x="510" y="170" width="140" height="38" rx="19" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35"/>
+    <text x="580" y="195" text-anchor="middle">ATS check</text>
+    <rect x="664" y="170" width="178" height="38" rx="19" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35"/>
+    <text x="753" y="195" text-anchor="middle">Live progress</text>
+    <rect x="856" y="170" width="206" height="38" rx="19" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35"/>
+    <text x="959" y="195" text-anchor="middle">Blind screening</text>
+  </g>
+
+  <!-- score breakdown motif: segment width = weight of that part of the match score -->
+  <text x="80" y="250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#c7d2fe">SCORE BREAKDOWN</text>
+  <g clip-path="url(#tl)">
+    <rect x="80" y="262" width="1120" height="26" fill="#ffffff" fill-opacity="0.12"/>
+    <rect x="80"  y="262" width="560" height="26" fill="#6ee7b7"/>
+    <rect x="640" y="262" width="280" height="26" fill="#a5b4fc"/>
+    <rect x="920" y="262" width="168" height="26" fill="#fcd34d"/>
+    <rect x="1088" y="262" width="112" height="26" fill="#fda4af"/>
+  </g>
+  <g stroke="#134e4a" stroke-opacity="0.35" stroke-width="2">
+    <line x1="640" y1="262" x2="640" y2="288"/><line x1="920" y1="262" x2="920" y2="288"/><line x1="1088" y1="262" x2="1088" y2="288"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#134e4a" text-anchor="middle">
+    <text x="360" y="280">Skills 50%</text>
+    <text x="780" y="280">Text 25%</text>
+    <text x="1004" y="280">Experience 15%</text>
+    <text x="1144" y="280">Education 10%</text>
+  </g>
+</svg>

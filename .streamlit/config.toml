@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 200          # MB per file
+maxMessageSize = 500
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,9 @@
+Sara Khan
+sara.khan@example.com
+
+I am a recent graduate. I am hardworking and I love learning new things. My hobbies are reading and cricket.
+
+Education
+B.Sc. Computer Science 2023-2026
+
+I know Python and some Excel. I did a small project on student marks.

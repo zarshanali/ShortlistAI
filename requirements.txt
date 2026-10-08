@@ -1,0 +1,16 @@
+streamlit>=1.37
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+pypdf
+striprtf
+python-pptx
+
+# Optional - meaning-based similarity (downloads a ~90 MB model on first use):
+# sentence-transformers
+
+# Optional system tools (not pip): better .doc and scanned-CV support
+#   Debian/Ubuntu/Colab:  apt-get install -y antiword tesseract-ocr poppler-utils
+#   Windows: install Tesseract (https://github.com/UB-Mannheim/tesseract/wiki) and add it to PATH

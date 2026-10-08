@@ -1,0 +1,11 @@
+Frontend Developer
+
+Requirements
+- 2+ years of experience building websites
+- Strong HTML, CSS and JavaScript
+- Experience with React and TypeScript
+- Familiarity with REST API integration and Git
+
+Preferred
+- Figma, responsive design
+- Unit testing with Jest
